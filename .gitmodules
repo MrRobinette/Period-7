@@ -58,3 +58,27 @@
 [submodule "Multani_Gitanjali"]
 	path = Multani_Gitanjali
 	url = https://github.com/Gita5683/Multani_Gitanjali
+[submodule "Pham_Vyvian"]
+	path = Pham_Vyvian
+	url = https://github.com/phamv8616/Pham_Vyvian
+[submodule "Pucher_Dahra"]
+	path = Pucher_Dahra
+	url = https://github.com/dahrapucher/Pucher_Dahra
+[submodule "Reineck_Chris"]
+	path = Reineck_Chris
+	url = https://github.com/youngnass/Reineck_Chris
+[submodule "Rankupalli_Maya"]
+	path = Rankupalli_Maya
+	url = https://github.com/mayarankupalli/Rankupalli_Maya
+[submodule "Rim_Daniel"]
+	path = Rim_Daniel
+	url = https://github.com/danrim99/Rim_Daniel
+[submodule "Roshan_Mona"]
+	path = Roshan_Mona
+	url = https://github.com/monaroshan/Roshan_Mona
+[submodule "Sasagawa_Kyle"]
+	path = Sasagawa_Kyle
+	url = https://github.com/ksasagawa/Sasagawa_Kyle
+[submodule "Wang_Jonathan"]
+	path = Wang_Jonathan
+	url = https://github.com/jwang9930/Wang_Jonathan
