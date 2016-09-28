@@ -88,9 +88,6 @@
 [submodule "Le_Kien"]
 	path = Le_Kien
 	url = https://github.com/imcheesed/Le_Kien
-[submodule "Oh_Lauren_APCompSciSemester1"]
-	path = Oh_Lauren_APCompSciSemester1
-	url = https://github.com/laurendayoun/Oh_Lauren_APCompSciSemester1
 [submodule "Sinha_Navyaa"]
 	path = Sinha_Navyaa
 	url = https://github.com/navyaasinha/Sinha_Navyaa
