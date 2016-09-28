@@ -91,3 +91,6 @@
 [submodule "Sinha_Navyaa"]
 	path = Sinha_Navyaa
 	url = https://github.com/navyaasinha/Sinha_Navyaa
+[submodule "Oh_Lauren_APCompSciSemester1"]
+	path = Oh_Lauren_APCompSciSemester1
+	url = https://github.com/laurendayoun/Oh_Lauren_APCompSciSemester1
