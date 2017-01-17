@@ -34,6 +34,9 @@
 [submodule "Graham_Taylah"]
 	path = Graham_Taylah
 	url = https://github.com/ambeda/Graham_Taylah
+[submodule "Gross-Sable_Elijah"]
+	path = Gross-Sable_Elijah
+	url = https://github.com/egrossable/Gross-Sable_Elijah
 [submodule "Haque_Ayan"]
 	path = Haque_Ayan
 	url = https://github.com/ayanhaque/Haque_Ayan
