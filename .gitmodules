@@ -73,9 +73,6 @@
 [submodule "Rankupalli_Maya"]
 	path = Rankupalli_Maya
 	url = https://github.com/mayarankupalli/Rankupalli_Maya
-[submodule "Rim_Daniel"]
-	path = Rim_Daniel
-	url = https://github.com/danrim99/Rim_Daniel
 [submodule "Roshan_Mona"]
 	path = Roshan_Mona
 	url = https://github.com/monaroshan/Roshan_Mona
